@@ -1,0 +1,25 @@
+.App {
+	background-color: #282c34;
+	color: white;
+	height: 100vh;
+}
+
+.App-header {
+	font-size: calc(10px + 2vmin);
+	text-align: center;
+	padding: 1em;
+}
+
+.App-row {
+	display: flex;
+}
+
+.App-rows {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.App-decoded-text {
+	text-align: center;
+}
